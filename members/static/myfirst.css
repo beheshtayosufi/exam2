@@ -1,0 +1,37 @@
+body{
+    background-color: #a7a7a7;
+    margin: 0;
+    padding: 0;
+    display: grid;
+}
+h1{
+
+    font-size: 60px;
+    background-color: #b6dcfa;
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+
+table, th, td {
+    border: 1px dotted;
+    font-size: 35px;
+    margin: 10px;
+    padding: 10px;
+  }
+tr:nth-child(even){background-color: #f2f2f2;}
+
+p{
+    font-size: 35px;
+    color: #ff3806;
+   
+}
+h2{
+    font-size: 50px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+
+}
